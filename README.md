@@ -1,2 +1,2 @@
 # prova1
-beretta
+programma java di prova per l'integrazione di gt con netbeans
